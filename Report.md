@@ -115,7 +115,7 @@ A plot of rewards per episode is included to illustrate that:
 
 + the agent is able to receive an average reward (over 100 episodes, and over all 20 agents) of at least +30.
 
-![rewards.png](./img/rewards.png "rewards.png")
+![rewards.png](./img/rewards.png "rewards.PNG")
 
 
 ### Ideas for Future Work
